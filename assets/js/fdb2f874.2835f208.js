@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkultra_project_galaxy=self.webpackChunkultra_project_galaxy||[]).push([[6886],{2945:a=>{a.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);

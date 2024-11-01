@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkultra_project_galaxy=self.webpackChunkultra_project_galaxy||[]).push([[8951],{6580:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/Ultra-Project-Galaxy/blog/tags/hola","allTagsPath":"/Ultra-Project-Galaxy/blog/tags","count":1}')}}]);
