@@ -1,0 +1,8 @@
+{
+  "label": "Galaxy",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "La galassia Ultra ad oggi possiede le seguenti stelle"
+  }
+}
